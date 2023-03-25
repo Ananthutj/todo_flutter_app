@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SocialMediaIntegration</string>
+    <string name="facebook_app_id">854199022488733</string>
+    <string name="fb_login_protocol_scheme">fb854199022488733</string>
+    <string name="facebook_client_token">a74dc3a5b08718231111ea53b26477d5</string>
+
+</resources>
+
